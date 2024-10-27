@@ -6,9 +6,10 @@ Objectives:
 To simplify the reporting and processing of traffic offenses.
 To provide an accessible platform for users to pay fines and view their offense history.
 To enhance the efficiency of law enforcement agencies in managing traffic violations.
-Key Features:
-User Registration and Login:
 
+Key Features:
+
+User Registration and Login:
 Users (drivers) can create accounts and log in securely.
 Law enforcement officers can have separate access with additional functionalities.
 Traffic Offense Reporting:
